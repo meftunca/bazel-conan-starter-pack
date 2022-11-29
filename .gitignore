@@ -9,5 +9,5 @@ Data
 conandeps
 /bulkkData/*
 checks.json
-
+.DS_Store
 *.zstd
